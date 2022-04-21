@@ -6,7 +6,7 @@
     <title>YOURSHADES</title>
     <meta charset="utf-8">
 
-    <link rel="stylesheet" href="css/style1.css">
+    <link rel="stylesheet" href="css/cadastre.css">
 </head>
 
 <body>
@@ -42,7 +42,7 @@
     </nav>
 
     <main>
-        <form>
+        <div class="form"><form>
             <fieldset>
                 <legend>Cadastro:</legend>
                 <label for="n1">Nome Completo:</label>
@@ -51,15 +51,17 @@
 
                 <label for="s1">Senha:</label>
                 <input type="password" id="s1">
-                <input type="submit" value="enviar"><br>
             </fieldset>
             <fieldset>
                 <legend>Dados:</legend>
                 <label>Data de nascimento:<input type="date" name="dnasc"><br></label>
                 <label> telefone<input type="tel" name="telefone"><br> </label>
-                <input type="submit" value="enviar"><br>
-            </fieldset>
+                <label> CPF:<input type="number" name="num"><br></label>
+
+               </fieldset> 
+               <input type="submit" value="enviar"><br>
         </form>
+    </div>
     </main>
     <footer>
         <ul>
