@@ -1,0 +1,36 @@
+@import './base.css';
+
+caption{
+color: rgb(255, 255, 255);
+background-color: rgb(55, 2, 2);   
+}
+
+table{
+    font-family: cursive;
+    border: 3px transparent;
+    height: 30vh;
+    width: 100vh;
+    text-align: center;
+    margin: 250px;
+    margin-top: 10px;
+    background-color: rgb(112, 2, 2);
+}
+   
+td{
+background-color: rgb(240, 155, 162);
+}
+
+td.inicio{background-color: rgb(252, 122, 122);}
+
+
+td.m{background-color: rgb(252, 122, 122);}
+
+td.gg{background-color: rgb(252, 122, 122);}
+
+td.inf{background-color: rgb(179, 99, 255);}
+td.p{background-color: rgb(179, 99, 255);}
+td.g{background-color: rgb(179, 99, 255);}
+td.masc{background-color: rgb(255, 193, 92);}
+td.a{background-color: rgb(255, 193, 92);}
+td.b{ background-color: rgb(255, 193, 92);}
+
