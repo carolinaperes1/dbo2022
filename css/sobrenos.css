@@ -1,0 +1,21 @@
+@import './base.css';
+@import url('https://fonts.googleapis.com/css2?family=Ms+Madi&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,200&display=swap');
+.sn{
+  text-align: center;
+  font-family: 'Ms Madi';
+  font-size: 55px;
+}
+.text{
+  font-family:'Raleway', sans-serif; 
+}
+.filial{
+  text-align: center;
+  height: 100px;
+width:510px;
+  margin-left: auto; 
+  margin-right: auto; 
+  margin-bottom: 5px; 
+padding: 20px;  
+border: 2px solid rgb(113, 184, 216);
+}
