@@ -6,15 +6,12 @@
   height:50vh;
     width: 100vw;
 }
-
-
 .moda{ margin: 115px;
   margin-top: 130px;
   float: left;
   width: 10%;
   border-radius: 50%;
 }
-
 .moda img{border-radius: 100%;}
 
 div.desc {
@@ -24,11 +21,3 @@ div.desc {
   text-align: center;
   color: rgb(0, 0, 0);
 }
-
-
-
-
-
-
-
-
