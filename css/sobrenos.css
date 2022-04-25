@@ -19,3 +19,7 @@ width:510px;
 padding: 20px;  
 border: 2px solid rgb(113, 184, 216);
 }
+.vdo{
+    display: flex;
+    justify-content: space-around;
+}
