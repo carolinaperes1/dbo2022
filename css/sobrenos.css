@@ -10,16 +10,31 @@
   font-family:'Raleway', sans-serif; 
 }
 .filial{
-  text-align: center;
-  height: 100px;
-width:510px;
-  margin-left: auto; 
-  margin-right: auto; 
-  margin-bottom: 5px; 
-padding: 20px;  
-border: 2px solid rgb(113, 184, 216);
+    text-align: center;
+    height: 150px;
+    width: 510px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    padding: 20px;
+    border: 2px dashed rgb(113, 184, 216);
+    display: flex;
+    align-content: center;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+    align-items: baseline;
+    flex-direction: column;
 }
+ul.a {
+    list-style-type: square;
+  }
+  ul.b {
+    list-style-type:circle;
+  }
+
 .vdo{
     display: flex;
     justify-content: space-around;
+    padding: 60px;
 }
