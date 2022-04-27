@@ -3,8 +3,8 @@
 .bannerinf {
     display: flex;
     justify-content: space-around;
-    height: 50vh;
-    width: 90vw;
+    height: 35vh;
+    width: 100vw;
   }
 
   div.gallery {
@@ -12,7 +12,7 @@
     margin-top: 50px;
     border: 1px solid #ccc;
     float: left;
-    width: 180px;
+    width: 175px;
   }
 
   div.gallery:hover {
@@ -32,7 +32,7 @@
   }
 
   h2 {
-    margin: 5px;
+    margin: 2px;
     padding: 0px;
     text-align: center;
     color: blanchedalmond;
