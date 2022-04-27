@@ -2,7 +2,7 @@
 .bannerfem {
     display: flex;
     justify-content: space-around;
-    height: 50vh;
+    height: 35vh;
     width: 100vw;
 }
 
