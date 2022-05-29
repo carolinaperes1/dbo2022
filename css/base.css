@@ -1,6 +1,40 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Serif:wght@700&display=swap');
 body{background-color: rgba(137, 11, 240, 0.829);
 }
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+    margin-top: 20px;
+}
+
+@media (min-width: 768px) {
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+}
+
+.navbar-expand-sm .navbar-nav .dropdown-menu {
+    position: absolute;
+    background-color: #d0bad8;
+}
+
+.bg-secondary {
+    background-color: #b095bd!important;
+}
+.bg-dark {
+    background-color: #b095bd!important;
+}
+.navbar-nav{
+    margin-left: 60px;
+ margin-right: 50px;
+}
+.d-flex{
+    width: 350px;
+    margin-left: 60px;
+}
 .top {
   margin-left: auto;
       margin-right: auto; 
